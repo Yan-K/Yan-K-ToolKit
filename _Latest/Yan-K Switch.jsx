@@ -1,15 +1,14 @@
 ﻿/*
- Yan-K RGB Split
- Version: 1.0
+ Yan-K Switch
+ Version: 1.1
  Author: Yan-K @ Yan-K.tv
  Date: 2018/12/18
 */
   
-//encapsulate the script in a function to avoid global variables
 (function (thisObj) {
        
     //================
-    var version = '1.0';
+    var version = '1.1';
     //================
      
     // _______ MAIN _______

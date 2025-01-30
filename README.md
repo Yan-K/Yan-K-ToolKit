@@ -59,6 +59,13 @@ Toggle between layers with a single slider, mostly for lipsyncing.
 
 ---
 
+### Yan-K Typewriter (Text Revealer)
+Reveal text with a typewriter effect.
+![image](https://i.imgur.com/DNBy9mw.gif)
+![image](https://i.imgur.com/gaH9oMQ.png)
+
+---
+
 ## Installation
 1. Drag everything in `_Latest` folder including .jsx and folders into `ScriptUI Panels` folder.
 2. Restart After Effects and access the scripts from the `Window` panel.

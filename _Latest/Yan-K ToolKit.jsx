@@ -5,7 +5,6 @@
  Date: 2021/03/15
 */
   
-//encapsulate the script in a function to avoid global variables
 (function (thisObj) {
        
     //================

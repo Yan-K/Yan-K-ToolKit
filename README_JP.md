@@ -58,6 +58,13 @@ After Effects のメモリとキャッシュをワンクリックで削除。
 
 ---
 
+### Yan-K Typewriter (テキストリビール)
+タイプライターの効果でテキストを表示します。
+![image](https://i.imgur.com/DNBy9mw.gif)
+![image](https://i.imgur.com/gaH9oMQ.png)
+
+---
+
 ## インストール方法
 1. `_Latest` フォルダ内のすべての `.jsx` ファイルおよびフォルダを `ScriptUI Panels` フォルダにドラッグします。
 2. After Effects を再起動し、`ウィンドウ` パネルからスクリプトにアクセスしてください。
