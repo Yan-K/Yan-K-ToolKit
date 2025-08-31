@@ -82,7 +82,7 @@
                 precomp.layer(i).outPoint = i;
             }
             
-            var sliderExp = 'effect("Yan-K Switch Control")("Slider")%' + newCompDuration.toString();
+            var sliderExp = 'effect("Yan-K Switch Control")(1)%' + newCompDuration.toString();
 
             for (i=1 ; i<=selectComp.numLayers ; i++){
                 if (selectComp.layer(i).name == precompName){
