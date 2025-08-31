@@ -86,7 +86,7 @@
 
             for (i=1 ; i<=selectComp.numLayers ; i++){
                 if (selectComp.layer(i).name == precompName){
-                    newSlider = selectComp.layer(i).property("Effects").addProperty("Slider Control");
+                    newSlider = selectComp.layer(i).property("Effects").addProperty("ADBE Slider Control");
                     newSlider.name = "Yan-K Switch Control"
                     selectComp.layer(i).timeRemapEnabled = 1;
                     selectComp.layer(i).property("Time Remap").expression = sliderExp;
